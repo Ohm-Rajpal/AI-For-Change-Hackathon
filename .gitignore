@@ -1,0 +1,32 @@
+# Ignore compiled files
+*.pyc
+*.class
+
+# Ignore temporary files
+*.swp
+*~
+
+# Ignore environment files
+.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore images and other media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp3
+*.mp4
+
+# Ignore log files
+*.log
+
+# Ignore directories
+Beach Cleanup Dataset/
+
+# Ignore IDE or editor specific files
+.idea/
+
